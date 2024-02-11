@@ -7,7 +7,7 @@ function SecondaryButton(props) {
     const Button = styled.div`
         border: 1px solid #64748B;
         box-shadow: inset 0px 1px 2px rgba(10, 15, 26, 0.08);
-        min-width: ${minWidth};
+        min-width: 144px;
         color: #152842;
         border-radius: 10px;
         &:hover {
