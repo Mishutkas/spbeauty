@@ -9,3 +9,9 @@
     border-style: solid;
     border-radius: 8px;
 }
+
+.box{
+    position: absolute;
+    right: 0;
+    margin-right: 60px;
+}
