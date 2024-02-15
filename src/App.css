@@ -4,7 +4,8 @@
 }
 
 .adressesborder {
-    border-color: aliceblue;
+    border-color: rgb(100, 116, 139, 12%);
     border-width: 1px;
     border-style: solid;
+    border-radius: 8px;
 }
