@@ -2,3 +2,9 @@
 .greytext{
     color:#94A3B8
 }
+
+.adressesborder {
+    border-color: aliceblue;
+    border-width: 1px;
+    border-style: solid;
+}
